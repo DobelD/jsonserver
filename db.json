@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "first_name": "Coba",
+      "last_name": "Lagi",
+      "email": "coba@gmail.com",
+      "gender": "laki-laki",
+      "hobi": "game",
+      "id": 1
+    },
+    {
+      "first_name": "Ali",
+      "last_name": "Imron",
+      "email": "ali@gmail.com",
+      "gender": "laki-laki",
+      "hobi": "Makan",
+      "id": 2
+    }
+  ]
+}
